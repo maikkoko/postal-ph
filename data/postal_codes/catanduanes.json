@@ -1,0 +1,68 @@
+[
+  {
+    "phone_area_code": "52",
+    "citymun_id": 725,
+    "location": "Bagamanoc",
+    "zip_code": "4807"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 726,
+    "location": "Baras",
+    "zip_code": "4803"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 727,
+    "location": "Bato",
+    "zip_code": "4801"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 728,
+    "location": "Caramoran",
+    "zip_code": "4808"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 729,
+    "location": "Gigmoto",
+    "zip_code": "4804"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 730,
+    "location": "Pandan",
+    "zip_code": "4809"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 731,
+    "location": "Panganiban",
+    "zip_code": "4806"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 732,
+    "location": "San Andres",
+    "zip_code": "4810"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 733,
+    "location": "San Miguel",
+    "zip_code": "4802"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 734,
+    "location": "Viga",
+    "zip_code": "4805"
+  },
+  {
+    "phone_area_code": "52",
+    "citymun_id": 735,
+    "location": "Virac",
+    "zip_code": "4800"
+  }
+]

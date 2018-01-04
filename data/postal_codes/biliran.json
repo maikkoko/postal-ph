@@ -1,0 +1,50 @@
+[
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1037,
+    "location": "Almeria",
+    "zip_code": "6544"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1038,
+    "location": "Biliran",
+    "zip_code": "6549"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1038,
+    "location": "Cabucgayan",
+    "zip_code": "6550"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1040,
+    "location": "Caibiran",
+    "zip_code": "6548"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1041,
+    "location": "Culaba",
+    "zip_code": "6547"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1042,
+    "location": "Kawayan",
+    "zip_code": "6545"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1043,
+    "location": "Maripipi",
+    "zip_code": "6546"
+  },
+  {
+    "phone_area_code": "53",
+    "citymun_id": 1044,
+    "location": "Naval",
+    "zip_code": "6543"
+  }
+]

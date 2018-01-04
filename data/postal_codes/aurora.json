@@ -1,0 +1,50 @@
+[
+  {
+    "phone_area_code": "42",
+    "citymun_id": 313,
+    "location": "Baler",
+    "zip_code": "3200"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 314,
+    "location": "Casiguran",
+    "zip_code": "3204"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 315,
+    "location": "Dilasag",
+    "zip_code": "3205"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 316,
+    "location": "Dinalungan",
+    "zip_code": "3206"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 317,
+    "location": "Dingalan",
+    "zip_code": "3207"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 318,
+    "location": "Dipaculao",
+    "zip_code": "3203"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 319,
+    "location": "Maria Aurora",
+    "zip_code": "3202"
+  },
+  {
+    "phone_area_code": "42",
+    "citymun_id": 320,
+    "location": "San Luis",
+    "zip_code": "3201"
+  }
+]

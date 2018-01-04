@@ -1,0 +1,494 @@
+[
+  {
+    "region_id": 1,
+    "id": 1,
+    "key": "MM",
+    "name": "Metro Manila"
+  },
+  {
+    "region_id": 2,
+    "id": 2,
+    "key": "ABR",
+    "name": "Abra"
+  },
+  {
+    "region_id": 2,
+    "id": 3,
+    "key": "APA",
+    "name": "Apayao"
+  },
+  {
+    "region_id": 2,
+    "id": 4,
+    "key": "BEN",
+    "name": "Benguet"
+  },
+  {
+    "region_id": 2,
+    "id": 5,
+    "key": "IFU",
+    "name": "Ifugao"
+  },
+  {
+    "region_id": 2,
+    "id": 6,
+    "key": "KAL",
+    "name": "Kalinga"
+  },
+  {
+    "region_id": 2,
+    "id": 7,
+    "key": "MOU",
+    "name": "Mountain Province"
+  },
+  {
+    "region_id": 3,
+    "id": 8,
+    "key": "ILN",
+    "name": "Ilocos Norte"
+  },
+  {
+    "region_id": 3,
+    "id": 9,
+    "key": "ILS",
+    "name": "Ilocos Sur"
+  },
+  {
+    "region_id": 3,
+    "id": 10,
+    "key": "LUN",
+    "name": "La Union"
+  },
+  {
+    "region_id": 3,
+    "id": 11,
+    "key": "PAN",
+    "name": "Pangasinan"
+  },
+  {
+    "region_id": 4,
+    "id": 12,
+    "key": "BTN",
+    "name": "Batanes"
+  },
+  {
+    "region_id": 4,
+    "id": 13,
+    "key": "CAG",
+    "name": "Cagayan"
+  },
+  {
+    "region_id": 4,
+    "id": 14,
+    "key": "ISA",
+    "name": "Isabela"
+  },
+  {
+    "region_id": 4,
+    "id": 15,
+    "key": "NUV",
+    "name": "Nueva Vizcaya"
+  },
+  {
+    "region_id": 4,
+    "id": 16,
+    "key": "QUI",
+    "name": "Quirino"
+  },
+  {
+    "region_id": 5,
+    "id": 17,
+    "key": "AUR",
+    "name": "Aurora"
+  },
+  {
+    "region_id": 5,
+    "id": 18,
+    "key": "BAN",
+    "name": "Bataan"
+  },
+  {
+    "region_id": 5,
+    "id": 19,
+    "key": "BUL",
+    "name": "Bulacan"
+  },
+  {
+    "region_id": 5,
+    "id": 20,
+    "key": "NUE",
+    "name": "Nueva Ecija"
+  },
+  {
+    "region_id": 5,
+    "id": 21,
+    "key": "PAM",
+    "name": "Pampanga"
+  },
+  {
+    "region_id": 5,
+    "id": 22,
+    "key": "TAR",
+    "name": "Tarlac"
+  },
+  {
+    "region_id": 5,
+    "id": 23,
+    "key": "ZMB",
+    "name": "Zambales"
+  },
+  {
+    "region_id": 6,
+    "id": 24,
+    "key": "BTG",
+    "name": "Batangas"
+  },
+  {
+    "region_id": 6,
+    "id": 25,
+    "key": "CAV",
+    "name": "Cavite"
+  },
+  {
+    "region_id": 6,
+    "id": 26,
+    "key": "LAG",
+    "name": "Laguna"
+  },
+  {
+    "region_id": 6,
+    "id": 27,
+    "key": "QUE",
+    "name": "Quezon"
+  },
+  {
+    "region_id": 6,
+    "id": 28,
+    "key": "RIZ",
+    "name": "Rizal"
+  },
+  {
+    "region_id": 7,
+    "id": 29,
+    "key": "MAD",
+    "name": "Marinduque"
+  },
+  {
+    "region_id": 7,
+    "id": 30,
+    "key": "MDC",
+    "name": "Occidental Mindoro"
+  },
+  {
+    "region_id": 7,
+    "id": 31,
+    "key": "MDR",
+    "name": "Oriental Mindoro"
+  },
+  {
+    "region_id": 7,
+    "id": 32,
+    "key": "PLW",
+    "name": "Palawan"
+  },
+  {
+    "region_id": 7,
+    "id": 33,
+    "key": "ROM",
+    "name": "Romblon"
+  },
+  {
+    "region_id": 8,
+    "id": 34,
+    "key": "ALB",
+    "name": "Albay"
+  },
+  {
+    "region_id": 8,
+    "id": 35,
+    "key": "CAN",
+    "name": "Camarines Norte"
+  },
+  {
+    "region_id": 8,
+    "id": 36,
+    "key": "CAS",
+    "name": "Camarines Sur"
+  },
+  {
+    "region_id": 8,
+    "id": 37,
+    "key": "CAT",
+    "name": "Catanduanes"
+  },
+  {
+    "region_id": 8,
+    "id": 38,
+    "key": "MAS",
+    "name": "Masbate"
+  },
+  {
+    "region_id": 8,
+    "id": 39,
+    "key": "SOR",
+    "name": "Sorsogon"
+  },
+  {
+    "region_id": 9,
+    "id": 40,
+    "key": "AKL",
+    "name": "Aklan"
+  },
+  {
+    "region_id": 9,
+    "id": 41,
+    "key": "ANT",
+    "name": "Antique"
+  },
+  {
+    "region_id": 9,
+    "id": 42,
+    "key": "CAP",
+    "name": "Capiz"
+  },
+  {
+    "region_id": 9,
+    "id": 43,
+    "key": "GUI",
+    "name": "Guimaras"
+  },
+  {
+    "region_id": 9,
+    "id": 44,
+    "key": "ILI",
+    "name": "Iloilo"
+  },
+  {
+    "region_id": 9,
+    "id": 45,
+    "key": "NEC",
+    "name": "Negros Occidental"
+  },
+  {
+    "region_id": 10,
+    "id": 46,
+    "key": "BOH",
+    "name": "Bohol"
+  },
+  {
+    "region_id": 10,
+    "id": 47,
+    "key": "CEB",
+    "name": "Cebu"
+  },
+  {
+    "region_id": 10,
+    "id": 48,
+    "key": "NER",
+    "name": "Negros Oriental"
+  },
+  {
+    "region_id": 10,
+    "id": 49,
+    "key": "SIG",
+    "name": "Siquijor"
+  },
+  {
+    "region_id": 11,
+    "id": 50,
+    "key": "BIL",
+    "name": "Biliran"
+  },
+  {
+    "region_id": 11,
+    "id": 51,
+    "key": "EAS",
+    "name": "Eastern Samar"
+  },
+  {
+    "region_id": 11,
+    "id": 52,
+    "key": "LEY",
+    "name": "Leyte"
+  },
+  {
+    "region_id": 11,
+    "id": 53,
+    "key": "NSA",
+    "name": "Northern Samar"
+  },
+  {
+    "region_id": 11,
+    "id": 54,
+    "key": "WSA",
+    "name": "Samar"
+  },
+  {
+    "region_id": 11,
+    "id": 55,
+    "key": "SLE",
+    "name": "Southern Leyte"
+  },
+  {
+    "region_id": 12,
+    "id": 56,
+    "key": "ZAN",
+    "name": "Zamboanga del Norte"
+  },
+  {
+    "region_id": 12,
+    "id": 57,
+    "key": "ZAS",
+    "name": "Zamboanga del Sur"
+  },
+  {
+    "region_id": 12,
+    "id": 58,
+    "key": "ZSI",
+    "name": "Zamboanga Sibugay"
+  },
+  {
+    "region_id": 13,
+    "id": 59,
+    "key": "BUK",
+    "name": "Bukidnon"
+  },
+  {
+    "region_id": 13,
+    "id": 60,
+    "key": "CAM",
+    "name": "Camiguin"
+  },
+  {
+    "region_id": 13,
+    "id": 61,
+    "key": "LAN",
+    "name": "Lanao del Norte"
+  },
+  {
+    "region_id": 13,
+    "id": 62,
+    "key": "MSC",
+    "name": "Misamis Occidental"
+  },
+  {
+    "region_id": 13,
+    "id": 63,
+    "key": "MSR",
+    "name": "Misamis Oriental"
+  },
+  {
+    "region_id": 14,
+    "id": 64,
+    "key": "COM",
+    "name": "Compostela Valley"
+  },
+  {
+    "region_id": 14,
+    "id": 65,
+    "key": "DAV",
+    "name": "Davao del Norte"
+  },
+  {
+    "region_id": 14,
+    "id": 66,
+    "key": "DAS",
+    "name": "Davao del Sur"
+  },
+  {
+    "region_id": 14,
+    "id": 67,
+    "key": "DAC",
+    "name": "Davao Occidental"
+  },
+  {
+    "region_id": 14,
+    "id": 68,
+    "key": "DAO",
+    "name": "Davao Oriental"
+  },
+  {
+    "region_id": 15,
+    "id": 69,
+    "key": "NCO",
+    "name": "North Cotabato"
+  },
+  {
+    "region_id": 15,
+    "id": 70,
+    "key": "SAR",
+    "name": "Sarangani"
+  },
+  {
+    "region_id": 15,
+    "id": 71,
+    "key": "SCO",
+    "name": "South Cotabato"
+  },
+  {
+    "region_id": 15,
+    "id": 72,
+    "key": "SUK",
+    "name": "Sultan Kudarat"
+  },
+  {
+    "region_id": 16,
+    "id": 73,
+    "key": "AGN",
+    "name": "Agusan del Norte"
+  },
+  {
+    "region_id": 16,
+    "id": 74,
+    "key": "AGS",
+    "name": "Agusan del Sur"
+  },
+  {
+    "region_id": 16,
+    "id": 75,
+    "key": "DIN",
+    "name": "Dinagat Islands"
+  },
+  {
+    "region_id": 16,
+    "id": 76,
+    "key": "SUN",
+    "name": "Surigao del Norte"
+  },
+  {
+    "region_id": 16,
+    "id": 77,
+    "key": "SUR",
+    "name": "Surigao del Sur"
+  },
+  {
+    "region_id": 17,
+    "id": 78,
+    "key": "BAS",
+    "name": "Basilan"
+  },
+  {
+    "region_id": 17,
+    "id": 79,
+    "key": "LAS",
+    "name": "Lanao del Sur"
+  },
+  {
+    "region_id": 17,
+    "id": 80,
+    "key": "MAG",
+    "name": "Maguindanao"
+  },
+  {
+    "region_id": 17,
+    "id": 81,
+    "key": "SLU",
+    "name": "Sulu"
+  },
+  {
+    "region_id": 17,
+    "id": 82,
+    "key": "TAW",
+    "name": "Tawi-tawi"
+  }
+]

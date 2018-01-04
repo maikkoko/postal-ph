@@ -1,0 +1,32 @@
+[
+  {
+    "phone_area_code": "88",
+    "citymun_id": 1273,
+    "location": "Catarman",
+    "zip_code": "9104"
+  },
+  {
+    "phone_area_code": "88",
+    "citymun_id": 1274,
+    "location": "Guinsiliban",
+    "zip_code": "9102"
+  },
+  {
+    "phone_area_code": "88",
+    "citymun_id": 1275,
+    "location": "Mahinog",
+    "zip_code": "9101"
+  },
+  {
+    "phone_area_code": "88",
+    "citymun_id": 1276,
+    "location": "Mambajao",
+    "zip_code": "9100"
+  },
+  {
+    "phone_area_code": "88",
+    "citymun_id": 1277,
+    "location": "Sagay",
+    "zip_code": "9103"
+  }
+]

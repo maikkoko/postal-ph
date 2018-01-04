@@ -1,0 +1,326 @@
+[
+  {
+    "phone_area_code": "32",
+    "citymun_id": 953,
+    "location": "Alcantara",
+    "zip_code": "6033"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 954,
+    "location": "Alcoy",
+    "zip_code": "6023"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 955,
+    "location": "Alegria",
+    "zip_code": "6030"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 956,
+    "location": "Aloguinsan",
+    "zip_code": "6040"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 957,
+    "location": "Argao",
+    "zip_code": "6021"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 958,
+    "location": "Asturias",
+    "zip_code": "6042"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 959,
+    "location": "Badian",
+    "zip_code": "6031"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 960,
+    "location": "Balamban",
+    "zip_code": "6041"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 961,
+    "location": "Bantayan",
+    "zip_code": "6042"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 962,
+    "location": "Barili",
+    "zip_code": "6036"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 963,
+    "location": "Bogo",
+    "zip_code": "6010"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 964,
+    "location": "Boljoon",
+    "zip_code": "6024"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 965,
+    "location": "Borbon",
+    "zip_code": "6008"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 966,
+    "location": "Carcar",
+    "zip_code": "6019"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 967,
+    "location": "Carmen",
+    "zip_code": "6005"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 968,
+    "location": "Catmon",
+    "zip_code": "6006"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 969,
+    "location": "Cebu City",
+    "zip_code": "6000"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 970,
+    "location": "Compostela",
+    "zip_code": "6003"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 971,
+    "location": "Consolacion",
+    "zip_code": "6001"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 972,
+    "location": "Cordoba",
+    "zip_code": "6017"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 973,
+    "location": "Daanbantayan",
+    "zip_code": "6013"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 974,
+    "location": "Dalaguete",
+    "zip_code": "6022"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 975,
+    "location": "Danao",
+    "zip_code": "6004"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 976,
+    "location": "Dumanjug",
+    "zip_code": "6035"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 977,
+    "location": "Ginatilan",
+    "zip_code": "6026"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 978,
+    "location": "Lapu-Lapu City",
+    "zip_code": "6015"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 978,
+    "location": "Mactan Airport",
+    "zip_code": "6016"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 979,
+    "location": "Liloan",
+    "zip_code": "6002"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 980,
+    "location": "Madridejos",
+    "zip_code": "6053"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 981,
+    "location": "Malabuyoc",
+    "zip_code": "6029"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 982,
+    "location": "Mandaue City",
+    "zip_code": "6014"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 983,
+    "location": "Medellin",
+    "zip_code": "6012"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 984,
+    "location": "Minglanilla",
+    "zip_code": "6046"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 985,
+    "location": "Moalboal",
+    "zip_code": "6032"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 986,
+    "location": "Naga",
+    "zip_code": "6037"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 987,
+    "location": "Oslob",
+    "zip_code": "6025"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 988,
+    "location": "Pilar",
+    "zip_code": "6048"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 989,
+    "location": "Pinamungajan",
+    "zip_code": "6039"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 990,
+    "location": "Poro",
+    "zip_code": "6049"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 991,
+    "location": "Ronda",
+    "zip_code": "6034"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 992,
+    "location": "Samboan",
+    "zip_code": "6027"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 993,
+    "location": "San Fernando",
+    "zip_code": "6018"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 994,
+    "location": "San Francisco",
+    "zip_code": "6050"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 995,
+    "location": "San Remigio",
+    "zip_code": "6011"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 996,
+    "location": "Santa Fe",
+    "zip_code": "6047"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 997,
+    "location": "Santander",
+    "zip_code": "6026"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 998,
+    "location": "Sibonga",
+    "zip_code": "6020"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 999,
+    "location": "Sogod",
+    "zip_code": "6007"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1000,
+    "location": "Tabogon",
+    "zip_code": "6009"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1001,
+    "location": "Tabuelan",
+    "zip_code": "6044"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1002,
+    "location": "Talisay",
+    "zip_code": "6045"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1003,
+    "location": "Toledo City",
+    "zip_code": "6038"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1004,
+    "location": "Tuburan",
+    "zip_code": "6043"
+  },
+  {
+    "phone_area_code": "32",
+    "citymun_id": 1005,
+    "location": "Tudela",
+    "zip_code": "6051"
+  }
+]

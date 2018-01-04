@@ -1,0 +1,20 @@
+[
+  {
+    "phone_area_code": "33",
+    "citymun_id": 824,
+    "location": "Buenavista",
+    "zip_code": "5044"
+  },
+  {
+    "phone_area_code": "33",
+    "citymun_id": 825,
+    "location": "Jordan",
+    "zip_code": "5045"
+  },
+  {
+    "phone_area_code": "33",
+    "citymun_id": 826,
+    "location": "Nueva Valencia",
+    "zip_code": "5046"
+  }
+]

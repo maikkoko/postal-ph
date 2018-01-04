@@ -1,0 +1,92 @@
+[
+  {
+    "phone_area_code": "47",
+    "citymun_id": 321,
+    "location": "Abucay",
+    "zip_code": "2114"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 322,
+    "location": "Bagac",
+    "zip_code": "2107"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 323,
+    "location": "Balanga",
+    "zip_code": "2100"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 324,
+    "location": "Dinalupihan",
+    "zip_code": "2110"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 325,
+    "location": "Hermosa",
+    "zip_code": "2111"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 326,
+    "location": "Limay",
+    "zip_code": "2103"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 326,
+    "location": "Lamao",
+    "zip_code": "2104"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 327,
+    "location": "Mariveles",
+    "zip_code": "2105"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 327,
+    "location": "Bataan Export Processing Zone (BEPZ) Mariveles",
+    "zip_code": "2106"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 328,
+    "location": "Morong",
+    "zip_code": "2108"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 328,
+    "location": "Refugee Processing Center (Morong)",
+    "zip_code": "2109"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 329,
+    "location": "Orani",
+    "zip_code": "2112"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 330,
+    "location": "Orion",
+    "zip_code": "2102"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 331,
+    "location": "Pilar",
+    "zip_code": "2101"
+  },
+  {
+    "phone_area_code": "47",
+    "citymun_id": 332,
+    "location": "Samal",
+    "zip_code": "2113"
+  }
+]

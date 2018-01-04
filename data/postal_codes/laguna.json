@@ -1,0 +1,206 @@
+[
+  {
+    "phone_area_code": "49",
+    "citymun_id": 500,
+    "location": "Alaminos",
+    "zip_code": "4001"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 501,
+    "location": "Bay",
+    "zip_code": "4033"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 502,
+    "location": "Biñan",
+    "zip_code": "4024"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 503,
+    "location": "Cabuyao",
+    "zip_code": "4025"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 504,
+    "location": "Calamba",
+    "zip_code": "4027"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 504,
+    "location": "Canlubang",
+    "zip_code": "4028"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 504,
+    "location": "Camp Vicente Lim",
+    "zip_code": "4029"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 505,
+    "location": "Calauan",
+    "zip_code": "4012"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 506,
+    "location": "Cavinti",
+    "zip_code": "4013"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 507,
+    "location": "Famy",
+    "zip_code": "4021"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 508,
+    "location": "Kalayaan",
+    "zip_code": "4015"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 509,
+    "location": "Liliw",
+    "zip_code": "4004"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 510,
+    "location": "Los Baños",
+    "zip_code": "4030"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 510,
+    "location": "College, Los Baños",
+    "zip_code": "4031"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 511,
+    "location": "Luisiana",
+    "zip_code": "4032"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 512,
+    "location": "Lumban",
+    "zip_code": "4014"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 513,
+    "location": "Mabitac",
+    "zip_code": "4020"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 514,
+    "location": "Magdalena",
+    "zip_code": "4007"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 515,
+    "location": "Botocan",
+    "zip_code": "4006"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 515,
+    "location": "Majayjay",
+    "zip_code": "4005"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 516,
+    "location": "Nagcarlan",
+    "zip_code": "4002"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 517,
+    "location": "Paete",
+    "zip_code": "4016"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 518,
+    "location": "Pagsanjan",
+    "zip_code": "4008"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 519,
+    "location": "Pakil",
+    "zip_code": "4017"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 520,
+    "location": "Pangil",
+    "zip_code": "4018"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 521,
+    "location": "Pila",
+    "zip_code": "4010"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 522,
+    "location": "Rizal",
+    "zip_code": "4003"
+  },
+  {
+    "phone_area_code": "2",
+    "citymun_id": 523,
+    "location": "San Pablo City",
+    "zip_code": "4000"
+  },
+  {
+    "phone_area_code": "2",
+    "citymun_id": 524,
+    "location": "San Pedro",
+    "zip_code": "4023"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 525,
+    "location": "Santa Cruz",
+    "zip_code": "4009"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 526,
+    "location": "Santa Maria",
+    "zip_code": "4022"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 527,
+    "location": "Santa Rosa",
+    "zip_code": "4026"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 528,
+    "location": "Siniloan",
+    "zip_code": "4019"
+  },
+  {
+    "phone_area_code": "49",
+    "citymun_id": 529,
+    "location": "Victoria",
+    "zip_code": "4011"
+  }
+]

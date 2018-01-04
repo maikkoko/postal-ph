@@ -1,0 +1,38 @@
+[
+  {
+    "phone_area_code": "78",
+    "citymun_id": 220,
+    "location": "Basco",
+    "zip_code": "3900"
+  },
+  {
+    "phone_area_code": "78",
+    "citymun_id": 221,
+    "location": "Itbayat",
+    "zip_code": "3905"
+  },
+  {
+    "phone_area_code": "78",
+    "citymun_id": 222,
+    "location": "Ivana",
+    "zip_code": "3902"
+  },
+  {
+    "phone_area_code": "78",
+    "citymun_id": 223,
+    "location": "Mahatao",
+    "zip_code": "3901"
+  },
+  {
+    "phone_area_code": "78",
+    "citymun_id": 224,
+    "location": "Sabtang",
+    "zip_code": "3904"
+  },
+  {
+    "phone_area_code": "78",
+    "citymun_id": 225,
+    "location": "Uyugan",
+    "zip_code": "3903"
+  }
+]

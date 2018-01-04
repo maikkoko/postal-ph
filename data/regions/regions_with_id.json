@@ -1,0 +1,104 @@
+[  
+  {  
+    "key":"NCR",
+    "id":1,
+    "long":"National Capital Region",
+    "name":"NCR"
+  },
+  {  
+    "key":"CAR",
+    "id":2,
+    "long":"Cordillera Admininstrative Region",
+    "name":"CAR"
+  },
+  {  
+    "key":"I",
+    "id":3,
+    "long":"Ilocos Region",
+    "name":"Region I"
+  },
+  {  
+    "key":"II",
+    "id":4,
+    "long":"Cagayan Valley",
+    "name":"Region II"
+  },
+  {  
+    "key":"III",
+    "id":5,
+    "long":"Central Luzon",
+    "name":"Region III"
+  },
+  {  
+    "key":"IV-A",
+    "id":6,
+    "long":"CALABARZON",
+    "name":"Region IV-A"
+  },
+  {  
+    "key":"IV-B",
+    "id":7,
+    "long":"MIMAROPA",
+    "name":"Region IV-B"
+  },
+  {  
+    "key":"V",
+    "id":8,
+    "long":"Bicol Region",
+    "name":"Region V"
+  },
+  {  
+    "key":"VI",
+    "id":9,
+    "long":"Western Visayas",
+    "name":"Region VI"
+  },
+  {  
+    "key":"VII",
+    "id":10,
+    "long":"Central Visayas",
+    "name":"Region VII"
+  },
+  {  
+    "key":"VIII",
+    "id":11,
+    "long":"Eastern Visayas",
+    "name":"Region VIII"
+  },
+  {  
+    "key":"IX",
+    "id":12,
+    "long":"Zamboange Peninsula",
+    "name":"Region IX"
+  },
+  {  
+    "key":"X",
+    "id":13,
+    "long":"Northen Mindanao",
+    "name":"Region X"
+  },
+  {  
+    "key":"XI",
+    "id":14,
+    "long":"Davao Region",
+    "name":"Region XI"
+  },
+  {  
+    "key":"XII",
+    "id":15,
+    "long":"SOCCSKARGEN",
+    "name":"Region XII"
+  },
+  {  
+    "key":"XIII",
+    "id":16,
+    "long":"Caraga",
+    "name":"Region XIII"
+  },
+  {  
+    "key":"ARMM",
+    "id":17,
+    "long":"Autonomous Region in Muslim Mindanao",
+    "name":"ARMM"
+  }
+]
