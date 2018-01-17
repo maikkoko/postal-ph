@@ -1,0 +1,110 @@
+[
+    {
+      "phone_area_code": "53",
+      "citymun_id": 500,
+      "location": "Anahawan",
+      "zip_code": "6610"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 501,
+      "location": "Bomtoc",
+      "zip_code": "6604"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 502,
+      "location": "Hinunangan",
+      "zip_code": "6608"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 503,
+      "location": "Hinundayan",
+      "zip_code": "6609"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Libangon",
+      "zip_code": "6615"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Liloan",
+      "zip_code": "6612"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Maasin",
+      "zip_code": "6600"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 505,
+      "location": "Macrohon",
+      "zip_code": "6601"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 506,
+      "location": "Malitbog",
+      "zip_code": "6603"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 507,
+      "location": "Padre Burgos",
+      "zip_code": "6602"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 508,
+      "location": "Pintuyan",
+      "zip_code": "6614"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 509,
+      "location": "San Francisco",
+      "zip_code": "6613"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 510,
+      "location": "San Juan (cabalian)",
+      "zip_code": "6611"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 510,
+      "location": "San Ricardo",
+      "zip_code": "6617"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 511,
+      "location": "Silago",
+      "zip_code": "6607"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 512,
+      "location": "Sogod",
+      "zip_code": "6606"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 513,
+      "location": "St. Bernard",
+      "zip_code": "6616"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 514,
+      "location": "Tomas Oppus",
+      "zip_code": "6605"
+    }
+  ]

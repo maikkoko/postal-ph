@@ -1,0 +1,98 @@
+[
+    {
+      "phone_area_code": "88",
+      "citymun_id": 500,
+      "location": "Aloran",
+      "zip_code": "7206"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 501,
+      "location": "Baliangao",
+      "zip_code": "7211"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 502,
+      "location": "Bonifacio",
+      "zip_code": "7215"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 503,
+      "location": "Calamba",
+      "zip_code": "7210"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 504,
+      "location": "Clarin",
+      "zip_code": "7201"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 505,
+      "location": "Concepcion",
+      "zip_code": "7213"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 504,
+      "location": "Jimenez",
+      "zip_code": "5208"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 505,
+      "location": "Lopez Jaena",
+      "zip_code": "7208"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 506,
+      "location": "Oroquieta City",
+      "zip_code": "7207"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 507,
+      "location": "Ozamis City",
+      "zip_code": "7200"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 508,
+      "location": "Panaon",
+      "zip_code": "7205"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 509,
+      "location": "Plaridel",
+      "zip_code": "7209"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 510,
+      "location": "Sapang Dalaga",
+      "zip_code": "7212"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 511,
+      "location": "Sinacaban",
+      "zip_code": "7203"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 512,
+      "location": "Tangub City",
+      "zip_code": "7214"
+    },
+    {
+      "phone_area_code": "88",
+      "citymun_id": 513,
+      "location": "Tudela",
+      "zip_code": "7202"
+    }
+  ]

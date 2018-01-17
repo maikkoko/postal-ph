@@ -1,0 +1,74 @@
+[
+    {
+      "phone_area_code": "43",
+      "citymun_id": 500,
+      "location": "Baco",
+      "zip_code": "5201"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 501,
+      "location": "Bansud",
+      "zip_code": "5210"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 502,
+      "location": "Bangabon",
+      "zip_code": "5211"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 503,
+      "location": "Bulalacao",
+      "zip_code": "5214"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 504,
+      "location": "Calapan",
+      "zip_code": "5200"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 505,
+      "location": "Gloria",
+      "zip_code": "5209"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 504,
+      "location": "Mansalay",
+      "zip_code": "5208"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 505,
+      "location": "Pola",
+      "zip_code": "5206"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 506,
+      "location": "Puerto Galera",
+      "zip_code": "5203"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 507,
+      "location": "Roxas",
+      "zip_code": "5212"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 508,
+      "location": "San Teodoro",
+      "zip_code": "5202"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 509,
+      "location": "Victoria",
+      "zip_code": "5205"
+    }
+  ]

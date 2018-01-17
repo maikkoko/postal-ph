@@ -1,0 +1,62 @@
+[
+    {
+      "phone_area_code": "74",
+      "citymun_id": 500,
+      "location": "Barlig",
+      "zip_code": "2623"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 501,
+      "location": "Bauko",
+      "zip_code": "2621"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 502,
+      "location": "Besao",
+      "zip_code": "2618"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 503,
+      "location": "Bontoc",
+      "zip_code": "2616"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 504,
+      "location": "Natonin",
+      "zip_code": "2624"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 505,
+      "location": "Paracelis",
+      "zip_code": "2625"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 504,
+      "location": "Sabangan",
+      "zip_code": "2622"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 505,
+      "location": "Sadanga",
+      "zip_code": "2617"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 506,
+      "location": "Sagada",
+      "zip_code": "2619"
+    },
+    {
+      "phone_area_code": "74",
+      "citymun_id": 507,
+      "location": "Tadian",
+      "zip_code": "2620"
+    }
+  ]

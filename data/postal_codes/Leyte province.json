@@ -1,0 +1,255 @@
+[
+    {
+      "phone_area_code": "53",
+      "citymun_id": 500,
+      "location": "Abuyog",
+      "zip_code": "6510"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 501,
+      "location": "Alangalang",
+      "zip_code": "6517"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 502,
+      "location": "Albuera",
+      "zip_code": "6542"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 503,
+      "location": "Babatngon",
+      "zip_code": "6520"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Barugo",
+      "zip_code": "6519"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Bato",
+      "zip_code": "6525"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 504,
+      "location": "Baybay",
+      "zip_code": "6521"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 505,
+      "location": "Burauen",
+      "zip_code": "6516"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 506,
+      "location": "Calubian",
+      "zip_code": "6534"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 507,
+      "location": "Capoocan",
+      "zip_code": "6530"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 508,
+      "location": "Carigara",
+      "zip_code": "6529"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 509,
+      "location": "Dagami",
+      "zip_code": "6515"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 510,
+      "location": "Dulag",
+      "zip_code": "6505"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 510,
+      "location": "Hilongos",
+      "zip_code": "6524"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 511,
+      "location": "Hindang",
+      "zip_code": "6523"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 512,
+      "location": "Inopacan",
+      "zip_code": "6522"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 513,
+      "location": "Isabel",
+      "zip_code": "6539"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 514,
+      "location": "Jaro",
+      "zip_code": "6527"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 515,
+      "location": "Javier",
+      "zip_code": "6511"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 516,
+      "location": "Julita",
+      "zip_code": "6506"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 517,
+      "location": "Kananga",
+      "zip_code": "6531"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 518,
+      "location": "La Paz",
+      "zip_code": "6508"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 519,
+      "location": "Leyte",
+      "zip_code": "6533"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 520,
+      "location": "Macarthur",
+      "zip_code": "6509"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 521,
+      "location": "Mahaplag",
+      "zip_code": "6512"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 522,
+      "location": "Matag-ob",
+      "zip_code": "6532"
+    }
+    ,
+    {
+      "phone_area_code": "53",
+      "citymun_id": 523,
+      "location": "Matalom",
+      "zip_code": "6526"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 524,
+      "location": "Mayorga",
+      "zip_code": "Merida"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 525,
+      "location": "Ormoc City",
+      "zip_code": "6541"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 526,
+      "location": "Palo",
+      "zip_code": "6501"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 527,
+      "location": "Palumpon",
+      "zip_code": "6538"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 528,
+      "location": "Pastrana",
+      "zip_code": "6514"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 529,
+      "location": "San Isidro",
+      "zip_code": "6535"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 530,
+      "location": "San Miguel",
+      "zip_code": "6518"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 531,
+      "location": "Santa Fe",
+      "zip_code": "6513"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 532,
+      "location": "Tabango",
+      "zip_code": "6536"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 533,
+      "location": "Tabontabon",
+      "zip_code": "6534"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 534,
+      "location": "Tacloban City",
+      "zip_code": "6500"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 535,
+      "location": "Tanauan",
+      "zip_code": "6502"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 536,
+      "location": "Tolosa",
+      "zip_code": "6503"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 537,
+      "location": "Tunga",
+      "zip_code": "6528"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 538,
+      "location": "Villaba",
+      "zip_code": "6537"
+    }
+  ]

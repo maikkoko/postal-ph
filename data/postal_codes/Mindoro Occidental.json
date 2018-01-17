@@ -1,0 +1,74 @@
+[
+    {
+      "phone_area_code": "43",
+      "citymun_id": 500,
+      "location": "Abra de Ilog",
+      "zip_code": "5108"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 501,
+      "location": "Calintaan",
+      "zip_code": "5102"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 502,
+      "location": "Looc",
+      "zip_code": "5111"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 503,
+      "location": "Lubang",
+      "zip_code": "5109"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 504,
+      "location": "Magsaysay",
+      "zip_code": "5101"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 505,
+      "location": "Mamburao",
+      "zip_code": "5106"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 504,
+      "location": "Paluan",
+      "zip_code": "5107"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 505,
+      "location": "Rizal",
+      "zip_code": "5103"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 506,
+      "location": "Sablayan",
+      "zip_code": "5104"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 507,
+      "location": "San Jose",
+      "zip_code": "5100"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 508,
+      "location": "Santa Cruz",
+      "zip_code": "5105"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 509,
+      "location": "Tilik",
+      "zip_code": "5110"
+    }
+  ]
