@@ -166,89 +166,95 @@
       "phone_area_code": "53",
       "citymun_id": 524,
       "location": "Mayorga",
-      "zip_code": "Merida"
+      "zip_code": "6507"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 525,
+      "citymun_id": 524,
+      "location": "Merida",
+      "zip_code": "6540"
+    },
+    {
+      "phone_area_code": "53",
+      "citymun_id": 526,
       "location": "Ormoc City",
       "zip_code": "6541"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 526,
+      "citymun_id": 527,
       "location": "Palo",
       "zip_code": "6501"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 527,
+      "citymun_id": 528,
       "location": "Palumpon",
       "zip_code": "6538"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 528,
+      "citymun_id": 529,
       "location": "Pastrana",
       "zip_code": "6514"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 529,
+      "citymun_id": 530,
       "location": "San Isidro",
       "zip_code": "6535"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 530,
+      "citymun_id": 531,
       "location": "San Miguel",
       "zip_code": "6518"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 531,
+      "citymun_id": 532,
       "location": "Santa Fe",
       "zip_code": "6513"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 532,
+      "citymun_id": 533,
       "location": "Tabango",
       "zip_code": "6536"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 533,
+      "citymun_id": 534,
       "location": "Tabontabon",
       "zip_code": "6534"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 534,
+      "citymun_id": 535,
       "location": "Tacloban City",
       "zip_code": "6500"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 535,
+      "citymun_id": 536,
       "location": "Tanauan",
       "zip_code": "6502"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 536,
+      "citymun_id": 537,
       "location": "Tolosa",
       "zip_code": "6503"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 537,
+      "citymun_id": 538,
       "location": "Tunga",
       "zip_code": "6528"
     },
     {
       "phone_area_code": "53",
-      "citymun_id": 538,
+      "citymun_id": 539,
       "location": "Villaba",
       "zip_code": "6537"
     }
