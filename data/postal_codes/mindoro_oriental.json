@@ -1,74 +1,86 @@
 [
     {
       "phone_area_code": "43",
-      "citymun_id": 500,
+      "citymun_id": 602,
       "location": "Baco",
       "zip_code": "5201"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 501,
+      "citymun_id": 603,
       "location": "Bansud",
       "zip_code": "5210"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 502,
-      "location": "Bangabon",
+      "citymun_id": 604,
+      "location": "Bangabong",
       "zip_code": "5211"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 503,
+      "citymun_id": 605,
       "location": "Bulalacao",
       "zip_code": "5214"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 504,
+      "citymun_id": 606,
       "location": "Calapan",
       "zip_code": "5200"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 505,
+      "citymun_id": 607,
       "location": "Gloria",
       "zip_code": "5209"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 504,
+      "citymun_id": 608,
       "location": "Mansalay",
       "zip_code": "5208"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 505,
+      "citymun_id": 611,
       "location": "Pola",
       "zip_code": "5206"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 506,
+      "citymun_id": 612,
       "location": "Puerto Galera",
       "zip_code": "5203"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 507,
+      "citymun_id": 613,
       "location": "Roxas",
       "zip_code": "5212"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 508,
+      "citymun_id": 614,
       "location": "San Teodoro",
       "zip_code": "5202"
     },
     {
       "phone_area_code": "43",
-      "citymun_id": 509,
+      "citymun_id": 616,
       "location": "Victoria",
       "zip_code": "5205"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 609,
+      "location": "Naujan",
+      "zip_code": "5204"
+    },
+    {
+      "phone_area_code": "43",
+      "citymun_id": 610,
+      "location": "Pinamalayan",
+      "zip_code": "5208"
     }
   ]

@@ -1,133 +1,127 @@
 [
     {
       "phone_area_code": "56",
-      "citymun_id": 500,
+      "citymun_id": 736,
       "location": "Aroroy",
       "zip_code": "5414"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 501,
+      "citymun_id": 737,
       "location": "Baleno",
       "zip_code": "5413"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 502,
+      "citymun_id": 738,
       "location": "Balud",
       "zip_code": "5412"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 503,
+      "citymun_id": 739,
       "location": "Batuan",
       "zip_code": "5415"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 504,
-      "location": "Buenavista",
-      "zip_code": "5421"
-    },
-    {
-      "phone_area_code": "56",
-      "citymun_id": 505,
+      "citymun_id": 740,
       "location": "Cataingan",
       "zip_code": "5405"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 504,
+      "citymun_id": 741,
       "location": "Cawayan",
       "zip_code": "5405"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 505,
+      "citymun_id": 742,
       "location": "Claveria",
       "zip_code": "5419"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 506,
+      "citymun_id": 743,
       "location": "Dimasalang",
       "zip_code": "5403"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 507,
+      "citymun_id": 744,
       "location": "Esperanza",
       "zip_code": "5407"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 508,
+      "citymun_id": 745,
       "location": "Mandaon",
       "zip_code": "5411"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 509,
+      "citymun_id": 746,
       "location": "Masbate",
       "zip_code": "5400"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 510,
+      "citymun_id": 747,
       "location": "Milagros",
       "zip_code": "5410"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 510,
+      "citymun_id": 748,
       "location": "Mobo",
       "zip_code": "5401"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 511,
+      "citymun_id": 749,
       "location": "Montreal",
       "zip_code": "5418"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 512,
+      "citymun_id": 750,
       "location": "Palanas",
       "zip_code": "5404"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 513,
-      "location": "Pio V. Cruz",
+      "citymun_id": 751,
+      "location": "Pio V. Corpuz",
       "zip_code": "5406"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 514,
+      "citymun_id": 752,
       "location": "Placer",
       "zip_code": "5408"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 515,
+      "citymun_id": 753,
       "location": "San Fernando",
       "zip_code": "5416"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 516,
+      "citymun_id": 754,
       "location": "San Jacinto",
       "zip_code": "5417"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 517,
+      "citymun_id": 755,
       "location": "San Pascual",
       "zip_code": "5420"
     },
     {
       "phone_area_code": "56",
-      "citymun_id": 518,
+      "citymun_id": 756,
       "location": "Uson",
       "zip_code": "5402"
     }

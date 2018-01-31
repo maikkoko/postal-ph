@@ -1,0 +1,44 @@
+[
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1411,
+      "location": "Alabel",
+      "zip_code": "9501"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1412,
+      "location": "Glan ",
+      "zip_code": "9517"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1413,
+      "location": "Kiamba ",
+      "zip_code": "9514"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1414,
+      "location": "Maasim",
+      "zip_code": "9502"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1415,
+      "location": "Maitum",
+      "zip_code": "9515"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1416,
+      "location": "Malapatan",
+      "zip_code": "9516"
+    },
+    {
+      "phone_area_code": "83",
+      "citymun_id": 1417,
+      "location": "Malungon",
+      "zip_code": "9503"
+    }
+  ]

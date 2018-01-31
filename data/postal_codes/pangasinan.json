@@ -1,0 +1,291 @@
+[
+    {
+      "phone_area_code": "75",
+      "citymun_id": 172,
+      "location": "Agno",
+      "zip_code": "2408"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 173,
+      "location": "Aguilar",
+      "zip_code": "2415"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 174,
+      "location": "Alaminos",
+      "zip_code": "2404"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 175,
+      "location": "Alcala",
+      "zip_code": "2425"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 176,
+      "location": "Anda",
+      "zip_code": "2405"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 177,
+      "location": "Asingan",
+      "zip_code": "2439"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 178,
+      "location": "Balungao",
+      "zip_code": "2442"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 179,
+      "location": "Bani",
+      "zip_code": "2407"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 180,
+      "location": "Basista",
+      "zip_code": "2422"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 181,
+      "location": "Bautista",
+      "zip_code": "2424"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 182,
+      "location": "Bayambang",
+      "zip_code": "2423"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 183,
+      "location": "Binalonan",
+      "zip_code": "2436"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 184,
+      "location": "Binmaley",
+      "zip_code": "2417"
+    },
+    {
+      "phone_area_code": 75,
+      "citymun_id": 185,
+      "location": "Bolinao",
+      "zip_code": "2406"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 186,
+      "location": "Bugallon",
+      "zip_code": "2416"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 187,
+      "location": "BUrgos",
+      "zip_code": "2410"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 188,
+      "location": "Calasiao",
+      "zip_code": "2418"
+    },
+    {
+      "phone_area_code": "75",
+      "citymun_id": 189,
+      "location": "Dagupan City",
+      "zip_code": "2400"
+    },
+    {
+          "phone_area_code": "75",
+          "citymun_id": 190,
+          "location": "Dasol",
+          "zip_code": "2411"
+    },
+    {
+          "phone_area_code": "75",
+          "citymun_id": 191,
+          "location": "Infanta",
+          "zip_code": "2412"
+    },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 192,
+          "location": "Labrador",
+          "zip_code": "2402"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 193,
+          "location": "Laoac",
+          "zip_code": "2437"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 194,
+          "location": "Lingayen",
+          "zip_code": "2401"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 195,
+          "location": "Mabini",
+          "zip_code": "2409"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 196,
+          "location": "Malasiqui",
+          "zip_code": "2421"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 197,
+          "location": "Manaoag",
+          "zip_code": "2430"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 198,
+          "location": "Mangaldan",
+          "zip_code": "2432"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 199,
+          "location": "Mangatarem",
+          "zip_code": "2413"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 200,
+          "location": "Mapandan",
+          "zip_code": "2429"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 201,
+          "location": "Natividad",
+          "zip_code": "2446"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 202,
+          "location": "Pozorrubio",
+          "zip_code": "2435"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 203,
+          "location": "Rosales",
+          "zip_code": "2441"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 304,
+          "location": "San Carlos City",
+          "zip_code": "2420"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 205,
+          "location": "San Fabian",
+          "zip_code": "2433"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 206,
+          "location": "San Jacinto",
+          "zip_code": "2431"
+        },
+        {
+          "phone_area_code": "75",
+          "citymun_id": 207,
+          "location": "San Manuel",
+          "zip_code": "2438"
+        },
+            { "phone_area_code": "75",
+              "citymun_id": 208,
+              "location": "San Nicolas",
+              "zip_code": "2447"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 209,
+              "location": "San Quintin",
+              "zip_code": "2444"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 210,
+              "location": "Santa Barbara",
+              "zip_code": "2419"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 211,
+              "location": "Santa Maria",
+              "zip_code": "2440"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 212,
+              "location": "Santo Tomas",
+              "zip_code": "2426"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 213,
+              "location": "Sison",
+              "zip_code": "2434"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 214,
+              "location": "Sual",
+              "zip_code": "2403"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 215,
+              "location": "Tayug",
+              "zip_code": "2445"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 216,
+              "location": "Umingan",
+              "zip_code": "2443"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 218,
+              "location": "Urbiztondo",
+              "zip_code": "2414"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 217,
+              "location": "Urdaneta",
+              "zip_code": "2428"
+            },
+            {
+              "phone_area_code": "75",
+              "citymun_id": 219,
+              "location": "Villasis",
+              "zip_code": "2427"
+            }
+          ]
+      
+  

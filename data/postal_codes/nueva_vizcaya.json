@@ -1,85 +1,91 @@
 [
     {
       "phone_area_code": "78",
-      "citymun_id": 500,
+      "citymun_id": 292,
       "location": "Alfonso Castañeda",
       "zip_code": "3111"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 501,
+      "citymun_id": 293,
       "location": "Ambaguio",
       "zip_code": "3701"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 502,
+      "citymun_id": 294,
       "location": "Aritao",
       "zip_code": "3704"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 503,
+      "citymun_id": 295,
       "location": "Bagabag",
       "zip_code": "3711"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 504,
+      "citymun_id": 296,
       "location": "Bambang",
       "zip_code": "3702"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 504,
+      "citymun_id": 297,
       "location": "Bayombong",
       "zip_code": "3700"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 504,
+      "citymun_id": 298,
       "location": "Diadi",
       "zip_code": "3712"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 505,
+      "citymun_id": 300,
       "location": "Dupax Del Sur",
       "zip_code": "3707"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 506,
+      "citymun_id": 299,
+      "location": "Dupax Del Norte",
+      "zip_code": "3706"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 301,
       "location": "Kasibu",
       "zip_code": "3703"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 507,
+      "citymun_id": 302,
       "location": "Kayapa",
       "zip_code": "3708"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 508,
+      "citymun_id": 303,
       "location": "Quezon",
       "zip_code": "3713"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 509,
+      "citymun_id": 305,
       "location": "Solano",
       "zip_code": "3709"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 510,
+      "citymun_id": 304,
       "location": "Sta. Fe (Imugan)",
       "zip_code": "3705"
     },
     {
       "phone_area_code": "78",
-      "citymun_id": 510,
+      "citymun_id": 306,
       "location": "Villa Verde (Ibung)",
       "zip_code": "3710"
     }

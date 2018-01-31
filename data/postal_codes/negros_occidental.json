@@ -1,194 +1,182 @@
 [
     {
       "phone_area_code": "34",
-      "citymun_id": 500,
+      "citymun_id": 873,
       "location": "Bacolod City",
       "zip_code": "6100"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 501,
+      "citymun_id": 874,
       "location": "Bago City",
       "zip_code": "6101"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 502,
+      "citymun_id": 875,
       "location": "Binalbagan",
       "zip_code": "6107"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 503,
+      "citymun_id": 876,
       "location": "Cadiz City",
       "zip_code": "6121"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 504,
+      "citymun_id": 877,
       "location": "Calatrava",
       "zip_code": "6126"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 504,
+      "citymun_id": 878,
       "location": "Candoni",
       "zip_code": "6110"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 504,
+      "citymun_id": 880,
       "location": "Enrique Magalona",
       "zip_code": "6118"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 505,
+      "citymun_id": 881,
       "location": "Escalante",
       "zip_code": "6124"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 506,
+      "citymun_id": 882,
       "location": "Himamaylan",
       "zip_code": "6108"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 507,
+      "citymun_id": 883,
       "location": "Hinigaran",
       "zip_code": "6106"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 508,
-      "location": "Hinoba-ara",
+      "citymun_id": 884,
+      "location": "Hinoba-an",
       "zip_code": "6114"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 509,
+      "citymun_id": 885,
       "location": "Ilog",
       "zip_code": "6109"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 510,
+      "citymun_id": 886,
       "location": "Isabela",
       "zip_code": "6128"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 510,
-      "location": "Kabangkalan",
+      "citymun_id": 887,
+      "location": "Kabankalan",
       "zip_code": "6100"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 511,
-      "location": "Kauayan",
+      "citymun_id": 879,
+      "location": "Cauayan",
       "zip_code": "6112"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 512,
+      "citymun_id": 888,
       "location": "La Carlota City",
       "zip_code": "6130"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 513,
-      "location": "La Castillana",
+      "citymun_id": 889,
+      "location": "La Castellana",
       "zip_code": "6131"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 514,
+      "citymun_id": 890,
       "location": "Manapla",
       "zip_code": "6120"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 515,
+      "citymun_id": 891,
       "location": "Moises Padilla",
       "zip_code": "6132"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 516,
+      "citymun_id": 892,
       "location": "Murcia",
       "zip_code": "6129"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 517,
-      "location": "Paraiso (Fabrica)",
-      "zip_code": "6123"
-    },
-    {
-      "phone_area_code": "34",
-      "citymun_id": 518,
+      "citymun_id": 894,
       "location": "Pulupandan",
       "zip_code": "6102"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 519,
+      "citymun_id": 893,
       "location": "Pontevedra",
       "zip_code": "6105"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 520,
+      "citymun_id": 895,
       "location": "Sagay",
       "zip_code": "6122"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 521,
+      "citymun_id": 897,
       "location": "San Carlos City",
       "zip_code": "6127"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 522,
+      "citymun_id": 898,
       "location": "San Enrique",
       "zip_code": "6104"
     }
     ,
     {
       "phone_area_code": "34",
-      "citymun_id": 523,
+      "citymun_id": 899,
       "location": "Silay City",
       "zip_code": "6116"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 524,
-      "location": "Silay Hawaiian Central",
-      "zip_code": "6117"
-    },
-    {
-      "phone_area_code": "34",
-      "citymun_id": 525,
+      "citymun_id": 900,
       "location": "Sipalay",
       "zip_code": "6113"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 526,
+      "citymun_id": 901,
       "location": "Talisay",
       "zip_code": "6115"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 527,
+      "citymun_id": 902,
       "location": "Toboso",
       "zip_code": "6125"
     },
     {
       "phone_area_code": "34",
-      "citymun_id": 528,
+      "citymun_id": 903,
       "location": "Villadolid",
       "zip_code": "6103"
     },

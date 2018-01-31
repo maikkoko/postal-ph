@@ -1,205 +1,193 @@
 [
     {
       "phone_area_code": "44",
-      "citymun_id": 500,
+      "citymun_id": 357,
       "location": "Aliaga",
       "zip_code": "3111"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 501,
+      "citymun_id": 358,
       "location": "Bongabon",
       "zip_code": "3128"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 502,
+      "citymun_id": 359,
       "location": "Cabanatuan City",
       "zip_code": "3100"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 503,
+      "citymun_id": 360,
       "location": "Cabiao",
       "zip_code": "3107"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 504,
+      "citymun_id": 361,
       "location": "Carranglan",
       "zip_code": "3123"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 504,
-      "location": "Central Luzon State University (CLSU)",
-      "zip_code": "3120"
-    },
-    {
-      "phone_area_code": "44",
-      "citymun_id": 504,
+      "citymun_id": 362,
       "location": "Cuyapao",
       "zip_code": "3117"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 505,
-      "location": "Fort Magsaysay",
-      "zip_code": "3130"
-    },
-    {
-      "phone_area_code": "44",
-      "citymun_id": 506,
+      "citymun_id": 363,
       "location": "Gabaldon",
       "zip_code": "3131"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 507,
+      "citymun_id": 364,
       "location": "Gapan",
       "zip_code": "3105"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 508,
+      "citymun_id": 365,
       "location": "Gen. M. Natividad",
       "zip_code": "3125"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 509,
+      "citymun_id": 366,
       "location": "Gen. Tinio",
       "zip_code": "3104"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 510,
+      "citymun_id": 367,
       "location": "Guimba",
       "zip_code": "3115"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 510,
+      "citymun_id":368,
       "location": "Jaen",
       "zip_code": "3109"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 511,
+      "citymun_id": 369,
       "location": "Laur",
       "zip_code": "3129"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 512,
+      "citymun_id": 370,
       "location": "Lucab",
       "zip_code": "3112"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 513,
+      "citymun_id": 371,
       "location": "Llanera",
       "zip_code": "3126"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 514,
+      "citymun_id": 372,
       "location": "Lupao",
       "zip_code": "3122"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 515,
+      "citymun_id": 373,
       "location": "Munoz",
       "zip_code": "3119"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 516,
+      "citymun_id": 374,
       "location": "Nampicuan",
       "zip_code": "3116"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 517,
+      "citymun_id": 375,
       "location": "Palayan City",
       "zip_code": "3132"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 518,
+      "citymun_id": 376,
       "location": "Pantabangan",
       "zip_code": "3124"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 519,
+      "citymun_id": 377,
       "location": "Penaranda",
       "zip_code": "3103"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 520,
+      "citymun_id": 378,
       "location": "Quezon",
       "zip_code": "3113"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 521,
+      "citymun_id": 379,
       "location": "Rizal",
       "zip_code": "3127"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 522,
+      "citymun_id": 380,
       "location": "San Antonio",
       "zip_code": "3108"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 523,
+      "citymun_id": 382,
       "location": "San Jose City",
       "zip_code": "3108"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 524,
+      "citymun_id": 381,
       "location": "San Isidro",
       "zip_code": "3106"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 525,
+      "citymun_id": 383,
       "location": "San Leonardo",
       "zip_code": "3102"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 526,
+      "citymun_id": 384,
       "location": "Santa Rosa",
       "zip_code": "3101"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 527,
+      "citymun_id": 385,
       "location": "Santo Domingo",
       "zip_code": "3133"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 528,
+      "citymun_id": 386,
       "location": "Talavera",
       "zip_code": "3114"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 529,
+      "citymun_id": 387,
       "location": "Talugtog",
       "zip_code": "3118"
     },
     {
       "phone_area_code": "44",
-      "citymun_id": 530,
+      "citymun_id": 388,
       "location": "Zaragosa",
       "zip_code": "3110"
     }

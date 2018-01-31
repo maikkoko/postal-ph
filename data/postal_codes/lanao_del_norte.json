@@ -1,140 +1,140 @@
 [
     {
       "phone_area_code": "63",
-      "citymun_id": 500,
+      "citymun_id": 1278,
       "location": "Bacolod",
       "zip_code": "9205"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 501,
+      "citymun_id": 1279,
       "location": "Baloi",
       "zip_code": "9217"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 502,
+      "citymun_id": 1280,
       "location": "Baroy",
       "zip_code": "9210"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 503,
+      "citymun_id": 1281,
       "location": "Iligan city",
       "zip_code": "9200"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 504,
+      "citymun_id": 1282,
       "location": "Kapatagan",
       "zip_code": "9214"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 504,
-      "location": "Karomatan",
-      "zip_code": "9215"
-    },
-    {
-      "phone_area_code": "63",
-      "citymun_id": 504,
+      "citymun_id": 1283,
       "location": "Kauswagan",
       "zip_code": "9202"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 505,
+      "citymun_id": 1284,
       "location": "Kolambugan",
       "zip_code": "9207"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 506,
+      "citymun_id": 1285,
       "location": "Lala",
       "zip_code": "9211"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 507,
+      "citymun_id": 1286,
       "location": "Linamon",
       "zip_code": "9201"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 508,
+      "citymun_id": 1287,
       "location": "Magsaysay",
       "zip_code": "9221"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 509,
+      "citymun_id": 1288,
       "location": "Maigo",
       "zip_code": "9206"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 510,
-      "location": "Matugao",
+      "citymun_id": 1289,
+      "location": "Matungao",
       "zip_code": "9203"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 510,
+      "citymun_id": 1290,
       "location": "Munai",
       "zip_code": "9219"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 511,
+      "citymun_id": 1291,
       "location": "Nunungan",
       "zip_code": "9216"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 512,
+      "citymun_id": 1292,
       "location": "Pantao Ragat",
       "zip_code": "9208"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 513,
+      "citymun_id": 1293,
       "location": "Pantar",
       "zip_code": "9218"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 514,
+      "citymun_id": 1294,
       "location": "Poona Piagapo",
       "zip_code": "9204"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 515,
+      "citymun_id": 1295,
       "location": "Salvador",
       "zip_code": "9212"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 515,
+      "citymun_id": 1296,
       "location": "Sapad",
       "zip_code": "9213"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 516,
+      "citymun_id": 1298,
       "location": "Tagoloan",
       "zip_code": "9222"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 517,
-      "location": "Tangkal",
+      "citymun_id": 1299,
+      "location": "Tangcal",
       "zip_code": "9220"
     },
     {
       "phone_area_code": "63",
-      "citymun_id": 518,
+      "citymun_id": 1300,
       "location": "Tubod",
       "zip_code": "9209"
+    },
+    {
+      "phone_area_code": "63",
+      "citymun_id": 1297,
+      "location": "sultan Naga Dimaporo",
+      "zip_code": "9215"
     }
   ]

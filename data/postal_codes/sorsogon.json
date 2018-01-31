@@ -1,0 +1,99 @@
+[
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1031,
+      "location": "Bacon",
+      "zip_code": "4701"
+    },
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1032,
+      "location": "Barcelona",
+      "zip_code": "4712"
+    },
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1033,
+      "location": "Bulan ",
+      "zip_code": "4706"
+    },
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1034,
+      "location": "Bulusan",
+      "zip_code": "4704"
+    },
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1035,
+      "location": "Casiguran",
+      "zip_code": "4702"
+    },
+    {
+      "phone_area_code": "56",
+      "citymun_id": 1036,
+      "location": "Castilla",
+      "zip_code": "4713"
+    },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1031,
+          "location": "Dansol",
+          "zip_code": "4715"
+        },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1032,
+          "location": "Gubat",
+          "zip_code": "4710"
+        },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1033,
+          "location": "Irosin",
+          "zip_code": "4707"
+        },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1034,
+          "location": "Juban",
+          "zip_code": "4703"
+        },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1035,
+          "location": "Magallanes",
+          "zip_code": "4705"
+        },
+        {
+          "phone_area_code": "56",
+          "citymun_id": 1036,
+          "location": "Matnog",
+          "zip_code": "4708"
+        },
+            {
+              "phone_area_code": "56",
+              "citymun_id": 1031,
+              "location": "Pilar",
+              "zip_code": "4714"
+            },
+            {
+              "phone_area_code": "56",
+              "citymun_id": 1032,
+              "location": "Prieto Diaz",
+              "zip_code": "4711"
+            },
+            {
+              "phone_area_code": "56",
+              "citymun_id": 1033,
+              "location": "Sta. Magdalena",
+              "zip_code": "4709"
+            },
+            {
+              "phone_area_code": "56",
+              "citymun_id": 1034,
+              "location": "Sorsogon",
+              "zip_code": "4700"
+            }
+      ]
+  
