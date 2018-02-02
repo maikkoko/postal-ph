@@ -1,0 +1,45 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "East Edsa",
+      "zip_code": "1554"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "Greenhills South",
+      "zip_code": "1556"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "Mandaluyong CPO",
+      "zip_code": "1550"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "National Center for Mental Health (mental Hispital)",
+      "zip_code": "1553"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "Shaw Boulevard",
+      "zip_code": "1552"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+      "location": "Vergara",
+      "zip_code": "1551"
+    },
+     {
+      "phone_area_code": "2",
+      "citymun_id": 5,
+       "location": "Wack Wack Golf Club",
+      "zip_code": "1555"
+    }
+]
+  
