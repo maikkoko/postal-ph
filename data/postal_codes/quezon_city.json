@@ -1,0 +1,873 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Alicia",
+      "zip_code": "1105"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Amihan",
+      "zip_code": "1102"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Apolonio Samson",
+      "zip_code": "1106"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Baesa",
+      "zip_code": "1106"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Bagbag",
+      "zip_code": "1116"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Bagong Buhay",
+      "zip_code": "1109"
+    },
+     {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+       "location": "Bagong Lipunan ",
+      "zip_code": "1111"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Bagong Pag-asa",
+      "zip_code": "1105"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "bagong Silangan",
+    "zip_code": "1119"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Bagong Bayan",
+    "zip_code": "1110"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Bahay Toro",
+    "zip_code": "1106"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Balingasa",
+    "zip_code": "1115"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Balintawak",
+    "zip_code": "1106"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Balumbato",
+    "zip_code": "1106"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Batasan Hills",
+    "zip_code": "1126"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Bayanihan",
+    "zip_code": "1109"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Botocan",
+    "zip_code": "1101"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Bungad",
+    "zip_code": "1105"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Camp Aguinaldo",
+    "zip_code": "1110"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Capitol Hills/Park",
+    "zip_code": "1126"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Capri",
+    "zip_code": "1117"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Central",
+    "zip_code": "1100"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Claro",
+    "zip_code": "1102"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Commonwealth",
+    "zip_code": "1121"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Crame",
+    "zip_code": "1111"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Cubao",
+    "zip_code": "1109"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Culiat",
+    "zip_code": "1128"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Damar",
+    "zip_code": "1115"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Damayan",
+    "zip_code": "1104"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Damayan Lagi",
+    "zip_code": "1112"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Damong Maliit",
+    "zip_code": "1123"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Delmonte",
+    "zip_code": "1105"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Diliman",
+    "zip_code": "1101"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Dioquino Zobel",
+    "zip_code": "1109"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Don Manuel",
+    "zip_code": "1113"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 14,
+    "location": "Dona Aurora",
+    "zip_code": "1113"
+    },
+    {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Dona Faustina Subd",
+        "zip_code": "1125"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Dona Imelda",
+        "zip_code": "1113"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Dona Josefa",
+        "zip_code": "1113"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Duyan-Duyan",
+        "zip_code": "1102"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "E. Rodriguez",
+        "zip_code": "1102"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Escopa",
+        "zip_code": "1109"
+      },
+       {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+         "location": "Fairview ",
+        "zip_code": "1118"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Fairview North",
+        "zip_code": "1121"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Faiview South",
+      "zip_code": "1122"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Gintong Silahis",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Gulod",
+      "zip_code": "1117"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Holy Spirit",
+      "zip_code": "1127"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Horseshoe",
+      "zip_code": "1112"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Immaculate Conception",
+      "zip_code": "1111"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kaligayahan",
+      "zip_code": "1124"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kalusugan",
+      "zip_code": "1112"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kamias",
+      "zip_code": "1102"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kamuning",
+      "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Katipunan",
+      "zip_code": "1105"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kaunlaran",
+      "zip_code": "1111"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Kristong Hari",
+      "zip_code": "1112"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Krus na ligas",
+      "zip_code": "1101"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Laging Handa",
+      "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "La Loma",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Libis",
+      "zip_code": "1110"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Lourdes",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Loyola Heights",
+      "zip_code": "1108"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Maharlica",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Malaya",
+      "zip_code": "1101"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Mangga",
+      "zip_code": "1109"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Manresa",
+      "zip_code": "1115"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Mariana",
+      "zip_code": "1112"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Mariblo",
+      "zip_code": "1104"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Marilag",
+      "zip_code": "1109"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Masagana",
+      "zip_code": "1109"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Masambong",
+      "zip_code": "1105"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Matalahib",
+        "zip_code": "1114"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Matandang Balara",
+        "zip_code": "1119"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Milagrosa",
+        "zip_code": "1109"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Nagkaisang Nayaon",
+        "zip_code": "1125"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Nayon Kaunlaran",
+        "zip_code": "1104"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "New Era",
+        "zip_code": "1107"
+      },
+       {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+         "location": "Novaliches Town Proper",
+        "zip_code": "1123"
+      },
+      {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Obrero",
+        "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Old Capitol Site",
+      "zip_code": "1101"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Parang Bundok",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pag-ibig sa Nayon",
+      "zip_code": "1115"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Paligsahan",
+      "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Paltok",
+      "zip_code": "1105"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pansol",
+      "zip_code": "1108"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Paraiso",
+      "zip_code": "1104"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pasong Putik",
+      "zip_code": "1118"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pasong Tamo",
+      "zip_code": "1107"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Payatas",
+      "zip_code": "1119"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Phil-Am/Philam",
+      "zip_code": "1104"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pinagkaisahan",
+      "zip_code": "1111"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Pinahan",
+      "zip_code": "1100"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Project 4",
+      "zip_code": "1109"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Project 6",
+      "zip_code": "1100"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Project 7",
+      "zip_code": "1105"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Project 8",
+      "zip_code": "1106"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Quirino District/Project 2&3",
+      "zip_code": "1102"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Quezon City CPO",
+      "zip_code": "1100"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Ramon Magsaysay",
+      "zip_code": "1105"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Roxas District",
+      "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Sacred Heart",
+      "zip_code": "1103"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "San Martin de Porres",
+      "zip_code": "1111"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "St. Ignatuis",
+      "zip_code": "1110"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "St. Peter",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "Salvacion",
+      "zip_code": "1114"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "San Agustin",
+      "zip_code": "1117"
+      },
+      {
+      "phone_area_code": "2",
+      "citymun_id": 14,
+      "location": "San Antonio",
+      "zip_code": "1105"
+      },
+      {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "San Bartolome",
+          "zip_code": "1116"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "Sangandaan",
+          "zip_code": "1116"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "San Isidro",
+          "zip_code": "1113"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "San Isidro Labrador",
+          "zip_code": "1114"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "San Jose",
+          "zip_code": "1115"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "San Roque",
+          "zip_code": "1109"
+        },
+         {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+           "location": "San Vicente ",
+          "zip_code": "1101"
+        },
+        {
+          "phone_area_code": "2",
+          "citymun_id": 14,
+          "location": "Santa Cruz",
+          "zip_code": "1104"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Santa Monica",
+        "zip_code": "1117"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Santa Teresita",
+        "zip_code": "1114"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Santol",
+        "zip_code": "1113"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Sto. Cristo",
+        "zip_code": "1105"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Santo Nino",
+        "zip_code": "1113"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Sauyo",
+        "zip_code": "1116"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Sienna",
+        "zip_code": "1114"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Sikatuna Village",
+        "zip_code": "1101"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Silangan",
+        "zip_code": "1102"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Socorro",
+        "zip_code": "1109"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "South Triangle",
+        "zip_code": "1103"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Tagumpay",
+        "zip_code": "1109"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Talampas",
+        "zip_code": "1110"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Talayan",
+        "zip_code": "1104"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Talipapa",
+        "zip_code": "1116"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Tandang Sora",
+        "zip_code": "1116"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Tatalon",
+        "zip_code": "1113"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Teachers Village",
+        "zip_code": "1101"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Ugong Norte",
+        "zip_code": "1110"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Unang Sigaw",
+        "zip_code": "1106"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "University Of the Philippines",
+        "zip_code": "1101"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "UP Village",
+        "zip_code": "1112"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Valencia",
+        "zip_code": "1112"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Vasra",
+        "zip_code": "1128"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Veterans Village",
+        "zip_code": "1105"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Villa Maria Clara",
+        "zip_code": "1109"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "Viologo Homes",
+        "zip_code": "1120"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "West Triangle",
+        "zip_code": "1104"
+        },
+        {
+        "phone_area_code": "2",
+        "citymun_id": 14,
+        "location": "White Plains",
+        "zip_code": "1110"
+        }
+]
+  
