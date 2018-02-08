@@ -1,0 +1,104 @@
+[
+    {
+      "phone_area_code": "42",
+      "citymun_id": 641,
+      "location": "Alcantara",
+      "zip_code": "5509"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 642,
+      "location": "Banton(Jones)",
+      "zip_code": "5515"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 643,
+      "location": "Cajidiocan",
+      "zip_code": "5512"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 644,
+      "location": "Calatrava",
+      "zip_code": "5503"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 645,
+      "location": "Concepcion",
+      "zip_code": "5516"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 646,
+      "location": "Corcuera",
+      "zip_code": "5514"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 647,
+      "location": "Ferrol",
+      "zip_code": "5506"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 657,
+      "location": "Sta. Maria",
+      "zip_code": "5508"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 648,
+      "location": "Looc",
+      "zip_code": "5507"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 649,
+      "location": "Magdiwang",
+      "zip_code": "5511"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 650,
+      "location": "Odiongan",
+      "zip_code": "5505"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 651,
+      "location": "Romblon",
+      "zip_code": "5500"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 652,
+      "location": "San Agustin",
+      "zip_code": "7212"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 653,
+      "location": "San Andres",
+      "zip_code": "5504"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 654,
+      "location": "San Fernando",
+      "zip_code": "5513"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 655,
+      "location": "San Jose",
+      "zip_code": "5510"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 656,
+      "location": "Santa Fe",
+      "zip_code": "5508"
+    }
+  ]

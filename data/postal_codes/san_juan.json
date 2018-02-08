@@ -1,0 +1,51 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "Eisenhower-Crame",
+      "zip_code": "1504"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "Greenhills North",
+      "zip_code": "1503"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "Greenhills PO",
+      "zip_code": "1502"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "San Juan CPO",
+      "zip_code": "1500"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "Asian Development Bank",
+      "zip_code": "0401"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+      "location": "Bible Church on the Air",
+      "zip_code": "0420"
+    },
+     {
+      "phone_area_code": "2",
+      "citymun_id": 15,
+       "location": "Int'l Correspondence School",
+      "zip_code": "0400"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 15,
+    "location": "Radio Bible Class",
+    "zip_code": "0410"
+    }
+]
+  

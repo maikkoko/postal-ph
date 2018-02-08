@@ -1,0 +1,38 @@
+[
+    {
+      "phone_area_code": "42",
+      "citymun_id": 585,
+      "location": "Boac",
+      "zip_code": "4900"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 586,
+      "location": "Buenavista",
+      "zip_code": "4904"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 587,
+      "location": "Gasan",
+      "zip_code": "4905"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 588,
+      "location": "Mogpog",
+      "zip_code": "4901"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 589,
+      "location": "Santa Cruz",
+      "zip_code": "4902"
+    },
+    {
+      "phone_area_code": "42",
+      "citymun_id": 590,
+      "location": "Torrijos",
+      "zip_code": "4903"
+    }
+  ]

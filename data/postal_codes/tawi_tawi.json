@@ -1,0 +1,62 @@
+[
+    {
+      "phone_area_code": "68",
+      "citymun_id": 411,
+      "location": "Balimbing",
+      "zip_code": "7501"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1624,
+      "location": "Bongao",
+      "zip_code": "7500"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 413,
+      "location": "Cagayan de Sulu",
+      "zip_code": "7508"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1625,
+      "location": "Languyan",
+      "zip_code": "7509"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1628,
+      "location": "Sapa-sapa",
+      "zip_code": "7503"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1630,
+      "location": "Simunol",
+      "zip_code": "7505"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1631,
+      "location": "Sitangkay",
+      "zip_code": "7506"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1632,
+      "location": "South Ubian",
+      "zip_code": "7504"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1634,
+      "location": "Taganak (turtle islands)",
+      "zip_code": "7507"
+    },
+    {
+      "phone_area_code": "68",
+      "citymun_id": 1633,
+      "location": "Tandu Bas",
+      "zip_code": "7502"
+    }
+  ]
