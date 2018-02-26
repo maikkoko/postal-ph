@@ -1,0 +1,219 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Ayala-Paseo de Roxas",
+      "zip_code": "1226"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Bangkal",
+      "zip_code": "1233"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Bel-air",
+      "zip_code": "1209"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Cembo",
+      "zip_code": "1214"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Comembo",
+      "zip_code": "1217"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Dasmarinas Village North",
+      "zip_code": "1221"
+    },
+     {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+       "location": "Dasmarinas Village South",
+      "zip_code": "1222"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 3,
+      "location": "Forbes Park North",
+      "zip_code": "1219"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Forbes Park South",
+    "zip_code": "1220"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Fort Bonifacio Naval Stn",
+    "zip_code": "1202"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Fort Bonifacio (Camp)",
+    "zip_code": "1201"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Greenbelt",
+    "zip_code": "1228"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Guadalupe Nuevo",
+    "zip_code": "1212"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Guadalupe Viejo",
+    "zip_code": "1211"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Kasilawan",
+    "zip_code": "1206"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "La Paz-Singkamas-Tejeros",
+    "zip_code": "1204"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Legaspi Village",
+    "zip_code": "1229"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Magallanes Village",
+    "zip_code": "1232"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Makati Commercial Ctr.",
+    "zip_code": "1224"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Makati CPO + Buendia Ave.",
+    "zip_code": "1200"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Olympia & Carmona",
+    "zip_code": "1207"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Palanan",
+    "zip_code": "1235"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Pasong Tamo & Ecology Vill",
+    "zip_code": "1231"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Pembo",
+    "zip_code": "1218"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Pinagkaisahan-Pitogo",
+    "zip_code": "1213"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Pio Del Pilar",
+    "zip_code": "1230"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Poblacion",
+    "zip_code": "1210"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Rembo (East)",
+    "zip_code": "1216"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Rembo (West)",
+    "zip_code": "1215"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Salcedo Village",
+    "zip_code": "1227"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "San Antonio Village",
+    "zip_code": "1203"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "San Isidro",
+    "zip_code": "1234"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "San Lorenzo Village",
+    "zip_code": "1223"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Sta. Cruz",
+    "zip_code": "1205"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Urdaneta Village",
+    "zip_code": "1225"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 3,
+    "location": "Valenzuela,Santiago,Rizal",
+    "zip_code": "1208"
+    }
+]
+  

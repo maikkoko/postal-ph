@@ -1,0 +1,38 @@
+[
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1031,
+      "location": "Enrile Villanueva",
+      "zip_code": "6230"
+    },
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1032,
+      "location": "Larena",
+      "zip_code": "6226"
+    },
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1033,
+      "location": "Lazi ",
+      "zip_code": "6228"
+    },
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1034,
+      "location": "Maria",
+      "zip_code": "6229"
+    },
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1035,
+      "location": "San juan",
+      "zip_code": "6227"
+    },
+    {
+      "phone_area_code": "35",
+      "citymun_id": 1036,
+      "location": "Siquijor",
+      "zip_code": "6225"
+    }
+  ]

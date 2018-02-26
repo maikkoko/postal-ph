@@ -1,0 +1,38 @@
+[
+    {
+      "phone_area_code": "78",
+      "citymun_id": 307,
+      "location": "Aglipay",
+      "zip_code": "3403"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 308,
+      "location": "Cabarruguis",
+      "zip_code": "3400"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 309,
+      "location": "Diffun",
+      "zip_code": "3401"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 310,
+      "location": "Maddela",
+      "zip_code": "3404"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 311,
+      "location": "Nagtipunan (Abbag)",
+      "zip_code": "3405"
+    },
+    {
+      "phone_area_code": "78",
+      "citymun_id": 312,
+      "location": "Saguday",
+      "zip_code": "3402"
+    }
+]

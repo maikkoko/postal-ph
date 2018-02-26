@@ -1,0 +1,117 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Binondo",
+      "zip_code": "1006"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Intramuros",
+      "zip_code": "1002"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Malate",
+      "zip_code": "1004"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Manila CPO - Ermita",
+      "zip_code": "1000"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Paco",
+      "zip_code": "1007"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Pandacan",
+      "zip_code": "1011"
+    },
+     {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+       "location": "Port Area South",
+      "zip_code": "1018"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 6,
+      "location": "Quiapo",
+      "zip_code": "1001"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sampaloc East",
+    "zip_code": "1008"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sampaloc West",
+    "zip_code": "1015"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "San Andres Bukid",
+    "zip_code": "1017"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "San Miguel",
+    "zip_code": "1005"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "San Nicolas",
+    "zip_code": "1010"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sta. Ana",
+    "zip_code": "1009"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sta. Cruz North",
+    "zip_code": "1004"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sta. Cruz South",
+    "zip_code": "1003"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Sta. Mesa",
+    "zip_code": "1016"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Tondo North",
+    "zip_code": "1013"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 6,
+    "location": "Tondo South",
+    "zip_code": "1012"
+    }
+]
+  

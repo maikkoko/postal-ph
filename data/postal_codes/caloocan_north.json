@@ -1,0 +1,63 @@
+[
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Amparo Subdivision",
+      "zip_code": "1425"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Bagong Silang",
+      "zip_code": "1428"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Bagumbong/Pag-asa",
+      "zip_code": "1421"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Bankers Village",
+      "zip_code": "1426"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Capitol Parkland Subdivision",
+      "zip_code": "1424"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+      "location": "Kaybiga/Deparo",
+      "zip_code": "1420"
+    },
+    {
+      "phone_area_code": "2",
+      "citymun_id": 1,
+       "location": "Lilles Ville Subdivision",
+      "zip_code": "1423"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 1,
+    "location": "Novaliches North",
+    "zip_code": "1422"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 1,
+    "location": "Tala Leprosaruim",
+     "zip_code": "1427"
+    },
+    {
+    "phone_area_code": "2",
+    "citymun_id": 1,
+    "location": "Victory Heights",
+    "zip_code": "1427"
+    }
+]
+  

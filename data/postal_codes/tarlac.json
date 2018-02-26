@@ -1,0 +1,104 @@
+[
+    {
+      "phone_area_code": "45",
+      "citymun_id": 411,
+      "location": "Anao",
+      "zip_code": "2310"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 412,
+      "location": "Bamban",
+      "zip_code": "2317"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 413,
+      "location": "Camiling",
+      "zip_code": "2306"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 414,
+      "location": "Capas",
+      "zip_code": "2315"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 415,
+      "location": "Cocepcion",
+      "zip_code": "2316"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 416,
+      "location": "Gerona",
+      "zip_code": "2302"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 417,
+      "location": "La Paz",
+      "zip_code": "2314"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 418,
+      "location": "Mayantoc",
+      "zip_code": "2304"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 419,
+      "location": "Mancada",
+      "zip_code": "2308"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 420,
+      "location": "Paniqui",
+      "zip_code": "2307"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 421,
+      "location": "Pura",
+      "zip_code": "2312"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 422,
+      "location": "Ramos",
+      "zip_code": "2311"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 423,
+      "location": "San Clemente",
+      "zip_code": "2305"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 425,
+      "location": "San Manuel",
+      "zip_code": "2309"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 426,
+      "location": "Sta. Ignacia",
+      "zip_code": "2303"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 427,
+      "location": "Tarlac",
+      "zip_code": "2300"
+    },
+    {
+      "phone_area_code": "45",
+      "citymun_id": 428,
+      "location": "Victoria",
+      "zip_code": "2313"
+    }
+  ]
