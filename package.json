@@ -1,0 +1,23 @@
+{
+  "name": "postal-ph",
+  "version": "1.0.0",
+  "description": "Philippine postal code data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikkoko/postal-ph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikkoko/postal-ph/issues"
+  },
+  "homepage": "https://github.com/maikkoko/postal-ph#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
